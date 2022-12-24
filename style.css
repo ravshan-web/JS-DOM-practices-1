@@ -1,0 +1,21 @@
+body {
+  padding: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(30, 30, 30);
+}
+
+h1,
+p,
+h3,
+div {
+  color: white;
+}
+
+span,
+.yellow {
+  color: yellow;
+}
+
+li::marker {
+  color: yellow;
+}
